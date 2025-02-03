@@ -7,7 +7,7 @@ Author: SHAIK ARIF
 <br>
 int main()
 {
-  printf("jai balayya\n");
+  printf("HEHEHE\n");
   return 0;
 }
 <br>
