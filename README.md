@@ -1,2 +1,3 @@
 # C_language
-this is my fisrt repository in C language
+This is my fisrt repository in C language
+Author: SHAIK ARIF
