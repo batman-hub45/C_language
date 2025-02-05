@@ -4,4 +4,5 @@
 int main()
 {
     //nothing is there in this function
+    printf("something need to do now\n");
 }
